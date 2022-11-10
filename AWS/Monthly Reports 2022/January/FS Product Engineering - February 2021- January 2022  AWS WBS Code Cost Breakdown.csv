@@ -1,0 +1,28 @@
+﻿WBS Code,Responsible,Name,2021-02-01,2021-03-01,2021-04-01,2021-05-01,2021-06-01,2021-07-01,2021-08-01,2021-09-01,2021-10-01,2021-11-01,2021-12-01,2022-01-01
+N.GB.002114.03,Ciaran Finnegan,FS-Eng-Customer Engineering,,$0,$4,$6,$4,$15,$67,$2,,,,
+N.GB.002117.01,Ciaran Finnegan,FS-Eng-AWS,$145,$149,$162,$198,$188,$271,$368,$456,$198,$480,$1111,$644
+N.GB.002110.01,Hilary Stevens,FS-Eng-SNA Platform Backlog Dev,$26402,$26644,$22970,$24143,$25638,$30384,$30517,$26913,$25432,$27775,$28032,$27509
+N.GB.002110.03,Hilary Stevens,FS-Eng-SNA Platform S&M,$45,$55,$47,$17,$17,$17,$17,$17,$17,$17,$17,$17
+N.GB.002438.04.004,Hilary Stevens,CS-ENG-Staff Welfare-USA Procure Soft En,,,$37,,,,,,,,,
+N.GB.002109.01,Isabel Van Dooren,FS-Eng-Compliance Dev,$1575,$1512,$1453,$1407,$850,$947,$1949,$2083,$1896,$1512,$1407,$2609
+N.GB.002109.02,Isabel Van Dooren,FS-Eng-Compliance S&M,$408,$400,$520,$882,$882,$680,$771,$695,$537,$108,$108,$123
+N.GB.002109.03,Isabel Van Dooren,FS-Eng-Compliance WLM S&M,$537,$363,$439,$411,$428,$458,$578,$836,$1491,$1098,$479,$333
+N.GB.002109.04,Isabel Van Dooren,FS-Eng-Compliance CDD / KYC S&M,$9,$58,$79,$16,$108,$73,$30,$141,$91,$35,$172,$48
+N.GB.002109.07,Isabel Van Dooren,FS-Eng-Compliance 2019 investment,$1815,$1864,$1576,$1709,$1443,$1260,$1505,$1517,$1015,$862,$939,$1258
+N.GB.002109.08,Isabel Van Dooren,FS-Eng-WLM Dev,$3409,$4251,$4387,$3963,$4823,$6126,$6297,$6516,$7005,$5505,$5679,$5106
+N.GB.002109.09,Isabel Van Dooren,FS-Eng-CDD Dev,$3066,$3279,$3835,$3445,$3556,$3018,$3062,$3641,$2955,$3151,$2865,$3083
+N.GB.002109.10,Isabel Van Dooren,FS-Eng-Notreveal CDD,$76,$100,$45,$48,$51,$47,$179,$256,$287,$108,$25,$0
+N.GB.002111.01,Kilian Colleran,FS-Eng-WLM V4.8/7.6 Dev,$78,$78,$70,$66,$22,$22,$22,$22,$22,$22,$22,$22
+N.GB.002114.01,Kilian Colleran,FS-Eng-EIM Platform Dev,$8028,$6071,$7122,$7813,$10675,$12314,$13992,$15428,$11739,$9805,$8835,$7790
+N.GB.002114.02,Kilian Colleran,FS-Eng-EIM Platform S&M,$180,$164,$196,$186,$180,$185,$238,$248,$217,$218,$194,$175
+N.GB.002114.09,Kilian Colleran,FS-Eng-Notreveal UI,$177,$192,$187,$262,$356,$366,$366,$356,$366,$351,$352,$351
+N.GB.002114.10,Kilian Colleran,FS-Eng-EIM Tech Modernisation 2019,$1434,$1504,$1553,$1089,$719,$734,$753,$704,$675,$723,$798,$501
+N.GB.002112.01,Matthew Wilkins,FS-Eng-Advanced Analytics Platform,$1572,$1671,$1902,$1899,$2044,$3185,$5323,$4010,$1548,$1633,$1784,$1726
+N.GB.002118.01,Matthew Wilkins,FS-Eng RT Detection Engine Dev,$316,$293,$345,$332,$336,$371,$405,$449,$376,$321,$335,$584
+N.GB.002118.02,Matthew Wilkins,FS-Eng RT Detection Engine S&M,$389,$476,$498,$556,$491,$474,$565,$622,$533,$542,$477,$342
+N.GB.002122.02,Matthew Wilkins,FS-Eng-Bank Fraud S&M,$840,$1368,$642,$711,$871,$587,$607,$891,$683,$1033,$893,$889
+N.GB.002124.01,Matthew Wilkins,FS-Eng-AML Scen Man Big Data Dev,$726,$738,$885,$935,$903,$828,$1097,$1282,$1067,$1155,$1195,$949
+N.GB.002649.01,Matthew Wilkins,FS-Eng-Scenario Manager DUX - Dev,$2,$239,$282,$206,$238,$162,$114,$168,$145,$154,$127,$101
+N.GB.002783.01,Matthew Wilkins,FS-Eng-Management & Ops,$92,$43,,,,,,,,,,
+N.GB.002114.12,Mick Muldowney,FS-Eng-Notreveal Serverless,$5170,$8851,$5370,$5769,$6683,$6697,$9292,$9909,$8301,$11107,$11772,$12553
+N.GB.002114.04,Paul Nolan,FS-Eng-NetReveal Eng Systems Team,$4547,$3741,$3964,$3881,$4585,$4524,$4074,$4639,$4646,$4440,$5342,$4637

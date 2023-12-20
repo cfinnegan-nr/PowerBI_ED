@@ -1,0 +1,22 @@
+Title	URL	Assignees	Status	Priority	Size	Linked pull requests	Milestone	Repository
+Errors in browser console when viewing the Sensa Network within NetReveal	https://github.com/SymphonySensa/web/issues/338		📋 Backlog	🏝 Low				SymphonySensa/web
+System DashBoard | Throughput & Active Entities section performance delays	https://github.com/SymphonySensa/api/issues/1134	UrielVentura	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/api/pull/1188	v4.3	SymphonySensa/api
+Transaction timeout on SSO login with local code space	https://github.com/SymphonySensa/api/issues/1081	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/api
+Implement performance improvements/hardening for large inserts (events and events_entities_objects)	https://github.com/SymphonySensa/styx/issues/49		🔖 Ready	🏝 Low				SymphonySensa/styx
+Data Source exists on data source page but not in pipeline family names in testing environment 	https://github.com/SymphonySensa/api/issues/873	simon-aq	🏗 In progress	🏕 Medium	🦔 Tiny	https://github.com/SymphonySensa/api/pull/1070	v4.3	SymphonySensa/api
+Detection Driven Mode – ETL counterparties relationships	https://github.com/SymphonySensa/styx/issues/123	evanlaia	👀 Codeowner review	🏔 High		https://github.com/SymphonySensa/styx/pull/163	v4.3	SymphonySensa/styx
+Audit Log for change of the List -List Management	https://github.com/SymphonySensa/api/issues/1079	ehollins-sym	🔖 Ready	🏝 Low	🐇 Small			SymphonySensa/api
+Missing access controls on data-source	https://github.com/SymphonySensa/web/issues/2007		🔖 Ready	🏕 Medium				SymphonySensa/web
+Response Time on V4.1 Entity Transactions Screen - Extremely Slow	https://github.com/SymphonySensa/api/issues/1104	simon-aq	🏗 In progress	🏔 High		https://github.com/SymphonySensa/api/pull/1136	v4.3	SymphonySensa/api
+Display the "All Detections Queue" per pipeline family	https://github.com/SymphonySensa/web/issues/2111		⛔️ On Hold	🏕 Medium			v4.3	SymphonySensa/web
+List Management page | User's selection to be retained with Pagination	https://github.com/SymphonySensa/web/issues/2138		⛔️ On Hold	🏕 Medium				SymphonySensa/web
+"Update" button is enabled when there are no SAML mappings for "Admin" role	https://github.com/SymphonySensa/web/issues/2173	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - Case difference for "Transaction Type" column filter & search results	https://github.com/SymphonySensa/web/issues/2176	wvandeklee-nr	👀 Codeowner review	🏕 Medium		https://github.com/SymphonySensa/web/pull/2206	v4.3	SymphonySensa/web
+"Entity Trades" tab - Unable to view "Transaction Type" toggle filter values when the search results have less records	https://github.com/SymphonySensa/web/issues/2178	mbroadhead-nr	🏗 In progress	🏕 Medium			v4.3	SymphonySensa/web
+"Entity Trades" tab - "Time period" filter is displaying incorrect search results	https://github.com/SymphonySensa/web/issues/2179	wvandeklee-nr	👀 Codeowner review	🏕 Medium		https://github.com/SymphonySensa/web/pull/2201	v4.3	SymphonySensa/web
+"Entity Trades" tab - Text difference for "Transaction Type" column filter & search results	https://github.com/SymphonySensa/web/issues/2180	wvandeklee-nr	👀 Codeowner review	🏕 Medium			v4.3	SymphonySensa/web
+"Entity Trades" Tab: 'Value(Base Currency)' data missing	https://github.com/SymphonySensa/api/issues/1171	krzysztof-koschany-Netreveal	🏗 In progress	🏕 Medium			v4.3	SymphonySensa/api
+Click on "Next" button in alert page moves to a random alert	https://github.com/SymphonySensa/web/issues/2186	adyfsl	🏗 In progress	🏔 High	🐂 Medium	https://github.com/SymphonySensa/web/pull/2190	v4.2	SymphonySensa/web
+'Update Display' audit log entry not registered in 'Log History'	https://github.com/SymphonySensa/api/issues/1172	mawcam	🏗 In progress	🏕 Medium	🐇 Small			SymphonySensa/api
+"Entity Details" tab - "Further Information" field is accepting 4000+ characters	https://github.com/SymphonySensa/web/issues/2194	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - First available order is not maintained after clicking a column header three times	https://github.com/SymphonySensa/web/issues/2200	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web

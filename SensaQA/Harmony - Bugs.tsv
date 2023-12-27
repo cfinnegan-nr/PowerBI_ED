@@ -1,0 +1,38 @@
+Title	URL	Assignees	Status	Priority	Size	Linked pull requests	Repository
+Errors in browser console when viewing the Sensa Network within NetReveal	https://github.com/SymphonySensa/web/issues/338		📋 Backlog	🏝 Low			SymphonySensa/web
+System DashBoard | Throughput & Active Entities section performance delays	https://github.com/SymphonySensa/api/issues/1134		🔖 Ready	🏕 Medium			SymphonySensa/api
+CSV Injection via xls file	https://github.com/SymphonySensa/web/issues/2005		⛔️ On Hold	🏔 High			SymphonySensa/web
+Relationships View - Relationship types are not being hidden	https://github.com/SymphonySensa/web/issues/2135	LeoHSilva	👀 Codeowner review	🏕 Medium		https://github.com/SymphonySensa/web/pull/2163	SymphonySensa/web
+"Edit/Deactivate User" button displays incorrect message for a User with READ permission	https://github.com/SymphonySensa/web/issues/1149	echojnacka-nr, ksmolski-nr, mcashman-nr	🔖 Ready	🏝 Low		https://github.com/SymphonySensa/web/pull/1209	SymphonySensa/web
+Transaction timeout on SSO login with local code space	https://github.com/SymphonySensa/api/issues/1081	mcashman-nr	🔖 Ready	🏝 Low			SymphonySensa/api
+Implement performance improvements/hardening for large inserts (events and events_entities_objects)	https://github.com/SymphonySensa/styx/issues/49		🔖 Ready	🏝 Low			SymphonySensa/styx
+Data Source exists on data source page but not in pipeline family names in testing environment 	https://github.com/SymphonySensa/api/issues/873	simon-aq	🏗 In progress	🏕 Medium	🦔 Tiny	https://github.com/SymphonySensa/api/pull/1070	SymphonySensa/api
+Adjust Queues Management for "All Detections" queue by Data Source Group (Pipeline Family) 	https://github.com/SymphonySensa/web/issues/932		📋 Backlog	🏔 High	🐂 Medium		SymphonySensa/web
+web-nightly logging error	https://github.com/SymphonySensa/api/issues/928	umairbalani	🔖 Ready	🏕 Medium			SymphonySensa/api
+New development related users should have Admin access to Sensa on internal test servers	https://github.com/SymphonySensa/web/issues/1730	umairbalani	🔖 Ready	🏔 High	🐇 Small		SymphonySensa/web
+Detection Driven Mode – ETL counterparties relationships 	https://github.com/SymphonySensa/styx/issues/123	evanlaia	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/styx/pull/163	SymphonySensa/styx
+Rule page: Version History not displaying previous logs after a user Changes the Rule Name.	https://github.com/SymphonySensa/web/issues/1993	wvandeklee-nr	👀 Codeowner review	🏔 High			SymphonySensa/web
+Audit Log for change of the List -List Management	https://github.com/SymphonySensa/api/issues/1079	ehollins-sym	🔖 Ready	🏝 Low	🐇 Small		SymphonySensa/api
+Clickjacking allowed	https://github.com/SymphonySensa/web/issues/2006	adyfsl	🏗 In progress	🏔 High		https://github.com/SymphonySensa/web/pull/2142	SymphonySensa/web
+Missing access controls on data-source	https://github.com/SymphonySensa/web/issues/2007		🔖 Ready	🏔 High			SymphonySensa/web
+AssignedTo Filter: User's own name (me) - identifies detections assigned to me Filter is missing	https://github.com/SymphonySensa/web/issues/2045	mcashman-nr	🔖 Ready	🏕 Medium			SymphonySensa/web
+Response Time on V4.1 Entity Transactions Screen - Extremely Slow	https://github.com/SymphonySensa/api/issues/1104	simon-aq	🏗 In progress	🏔 High		https://github.com/SymphonySensa/api/pull/1136	SymphonySensa/api
+getPipelineRuns api call giving unexpected result	https://github.com/SymphonySensa/api/issues/1143	ncondes	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/api/pull/1144	SymphonySensa/api
+All users should only have 'READ' permission for the Strategy > List Management path by default	https://github.com/SymphonySensa/web/issues/2069	mcashman-nr	🔖 Ready	🏕 Medium			SymphonySensa/web
+User role does not match SAML mappings	https://github.com/SymphonySensa/web/issues/2075	mbroadhead-nr, wvandeklee-nr	⛔️ On Hold	🏔 High			SymphonySensa/web
+Please increase time bucket size tooltip missing - Transactions over time period	https://github.com/SymphonySensa/web/issues/2096	carlagromero	🏗 In progress	🏕 Medium	🐇 Small		SymphonySensa/web
+Events | Transactiontype column chip size issues	https://github.com/SymphonySensa/web/issues/2083	e-koop	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/web/pull/2153	SymphonySensa/web
+Display the "All Detections Queue" per pipeline family	https://github.com/SymphonySensa/web/issues/2111		⛔️ On Hold	🏕 Medium			SymphonySensa/web
+Staging table migrations fail to set new tables in fresh environment	https://github.com/SymphonySensa/styx/issues/164	evanlaia	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/styx/pull/165	SymphonySensa/styx
+pf-eur pipeline family bucket not being picked up: web-white-02 env	https://github.com/SymphonySensa/hermes/issues/280		🔖 Ready	🏔 High			SymphonySensa/hermes
+Relationships View - Relationship type pannel	https://github.com/SymphonySensa/web/issues/2136		🔖 Ready	🏕 Medium			SymphonySensa/web
+List Management page | User's selection to be retained with Pagination	https://github.com/SymphonySensa/web/issues/2138		⛔️ On Hold	🏔 High			SymphonySensa/web
+ELE transaction filter reseting screen to only show single entity	https://github.com/SymphonySensa/web/issues/2148		🔖 Ready	🏔 High			SymphonySensa/web
+ELE Overall Risk Score in Entity Details not shown	https://github.com/SymphonySensa/web/issues/2149		🔖 Ready	🏕 Medium			SymphonySensa/web
+ELE  - Network chart hanging with Page Unresponsive pop-up.	https://github.com/SymphonySensa/web/issues/2155		🔖 Ready	🏕 Medium			SymphonySensa/web
+Changed display order for "Entity Transactions" column records are not reflecting after new session login 	https://github.com/SymphonySensa/web/issues/2156		🆕 New	🏕 Medium			SymphonySensa/web
+Poor performance of Entity Links Explorer in green-02 env	https://github.com/SymphonySensa/web/issues/2159		🆕 New	🏕 Medium			SymphonySensa/web
+Overall Risk Score filter in ELE not filtering correctly	https://github.com/SymphonySensa/web/issues/2160		🔖 Ready	🏔 High			SymphonySensa/web
+ELE graph - being returned to main graph after clicking on account in subgraph	https://github.com/SymphonySensa/web/issues/2161		🆕 New	🏕 Medium			SymphonySensa/web
+Address tag missing from Relationships view in ELE	https://github.com/SymphonySensa/web/issues/2162		🔖 Ready	🏕 Medium			SymphonySensa/web
+Detection Details | TypeError: Cannot read properties of undefined (reading 'reduce'  When clicking on Next /Previous buttons 	https://github.com/SymphonySensa/api/issues/1151		🆕 New				SymphonySensa/api

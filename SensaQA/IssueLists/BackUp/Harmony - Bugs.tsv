@@ -1,38 +1,24 @@
-Title	URL	Assignees	Status	Priority	Size	Version	Linked pull requests	Repository
-Errors in browser console when viewing the Sensa Network within NetReveal	https://github.com/SymphonySensa/web/issues/338		📋 Backlog	🏝 Low				SymphonySensa/web
-Sensa Network within NetReveal redirects to a non existent login screen when session times outs	https://github.com/SymphonySensa/web/issues/340	lauren-halpin	👀 In review	🏕 Medium	🐂 Medium	v4.2	https://github.com/SymphonySensa/web/pull/902	SymphonySensa/web
-SQL Injection vulnerability in API 	https://github.com/SymphonySensa/api/issues/594	evanlaia	🏗 In progress	🏕 Medium		v4.2		SymphonySensa/api
-If redis or postgres restarts, API does not automatically reconnect without restart	https://github.com/SymphonySensa/api/issues/732		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/api
-Pipeline status return Idle but whole pipeline is not finished	https://github.com/SymphonySensa/api/issues/658	ehollins-sym	🔖 Ready	🏝 Low		v4.2		SymphonySensa/api
-Implement sorting on Assigned To column in detections table	https://github.com/SymphonySensa/web/issues/1266	dchebotaru-nr	🏗 In progress	🏝 Low		v4.2	https://github.com/SymphonySensa/web/pull/1309, https://github.com/SymphonySensa/web/pull/1587	SymphonySensa/web
-Implement performance improvements/hardening for large inserts (events and events_entities_objects)	https://github.com/SymphonySensa/styx/issues/49		🔖 Ready	🏝 Low		v4.2		SymphonySensa/styx
-An alert per rule triggered by `entity_id` and `alerty_type`	https://github.com/SymphonySensa/hades/issues/133		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/hades
-"Comment" should not be shown in the audit log if no comment has been added in the Decision making	https://github.com/SymphonySensa/api/issues/827		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/api
-Guard against potential SQL injection risk for `getRiskScoreTrends`	https://github.com/SymphonySensa/api/issues/797		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/api
-Pipeline deployment process fails if previous schemas used the same pipeline names	https://github.com/SymphonySensa/pipeline-development/issues/12		🔖 Ready	🏔 High		v4.2		SymphonySensa/pipeline-development
-Data Source table shows all rows but also pagination	https://github.com/SymphonySensa/web/issues/1503		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/web
-Data Source exists on data source page but not in pipeline family names in testing environment 	https://github.com/SymphonySensa/api/issues/873		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/api
-RiskScoreTrends returning 0 for every riskScore	https://github.com/SymphonySensa/api/issues/881		📋 Backlog	🏕 Medium		v4.2		SymphonySensa/api
-Rule : 'Update Filters' button throws Something Went Wrong Error.	https://github.com/SymphonySensa/api/issues/899		📋 Backlog	🏔 High		v4.2		SymphonySensa/api
-Rule Actions are not being soft-deleted when calling `deleteRule` or `updateRule` mutations	https://github.com/SymphonySensa/api/issues/883		📋 Backlog	🏕 Medium		v4.2		SymphonySensa/api
-getAllRiskScores error "502 Bad Gateway" has incorrect format - html	https://github.com/SymphonySensa/api/issues/893		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/api
-getAllRiskScores return "Request failed with status code 503"	https://github.com/SymphonySensa/api/issues/894		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/api
-[Internal] Cannot create a new migration	https://github.com/SymphonySensa/api/issues/926		🔖 Ready	🏝 Low	🐂 Medium	v4.2		SymphonySensa/api
-`dataSources` and `dataSource` query returning files metadata	https://github.com/SymphonySensa/api/issues/896	evanlaia	👀 In review	🏔 High		v4.1	https://github.com/SymphonySensa/api/pull/940	SymphonySensa/api
-SSO settings not working for Keyclock	https://github.com/SymphonySensa/api/issues/897		🆕 New	🏝 Low		v4.2		SymphonySensa/api
-Fix code scanning alert - Use of a broken or weak cryptographic algorithm (cache-manager.service.ts)	https://github.com/SymphonySensa/api/issues/900		🔖 Ready	🏕 Medium				SymphonySensa/api
-Fix code scanning alert - Use of a broken or weak cryptographic algorithm (relationships.service.ts)	https://github.com/SymphonySensa/api/issues/901		🔖 Ready	🏕 Medium				SymphonySensa/api
-Pipeline Scheduler Description doesn't update without refresh 	https://github.com/SymphonySensa/web/issues/1629		🔖 Ready	🏝 Low		v4.2		SymphonySensa/web
-Adjust Queues Management for "All Detections" queue by Data Source Group (Pipeline Family) 	https://github.com/SymphonySensa/web/issues/932		📋 Backlog	🏔 High	🐂 Medium	v4.2		SymphonySensa/web
-Ad-hoc fixes arising from testing of advanced rule/rule-sets for Capital Markets epic	https://github.com/SymphonySensa/web/issues/1634		🔖 Ready	🏕 Medium		v4.2	https://github.com/SymphonySensa/web/pull/1639	SymphonySensa/web
-Entity Details - External entity Id not available	https://github.com/SymphonySensa/web/issues/1685		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/web
-Make Decision form - status and risk category not populating	https://github.com/SymphonySensa/web/issues/1710	carlagromero	🏗 In progress	🏔 High	🐇 Small			SymphonySensa/web
-web-nightly logging error	https://github.com/SymphonySensa/api/issues/928		🆕 New	🏕 Medium		v4.2		SymphonySensa/api
-Styx should force restart if it can't connect to redis	https://github.com/SymphonySensa/styx/issues/95		🔖 Ready	🏕 Medium		v4.2		SymphonySensa/styx
-Dynamically rotate accessTokens instead of relying on fixed interval	https://github.com/SymphonySensa/hades/issues/122		🔖 Ready	🌋 Urgent		v4.2		SymphonySensa/hades
-Update Filters on queue when not filled in page error	https://github.com/SymphonySensa/web/issues/1681	e-koop	🏗 In progress	🏕 Medium		v4.2	https://github.com/SymphonySensa/web/pull/1701	SymphonySensa/web
-Spike: View rule/rule-set triggers multiple (redundant) audit log entries	https://github.com/SymphonySensa/api/issues/939		🆕 New	🏕 Medium		v4.2		SymphonySensa/api
-Detection Driven Ingestion – ensure counterparties are captured and loaded to entities table in psql	https://github.com/SymphonySensa/styx/issues/99		🔖 Ready	🏔 High	🐂 Medium	v4.2		SymphonySensa/styx
-GQL Input Type – inaccurate default values for get detected entities breakdown query	https://github.com/SymphonySensa/api/issues/942	UrielVentura	👀 In review	🏕 Medium	🐇 Small		https://github.com/SymphonySensa/api/pull/945	SymphonySensa/api
-Hermes does not pick up a change in feature schedule string after initial evaluation	https://github.com/SymphonySensa/hermes/issues/248		🆕 New					SymphonySensa/hermes
-All E2E Schema Queue - not populating in Test Red after Pipelines run	https://github.com/SymphonySensa/web/issues/1716		🔖 Ready					SymphonySensa/web
+Title	URL	Assignees	Status	Priority	Size	Linked pull requests	Milestone	Repository
+"Entity Trades" tab - "Transaction Value" column is performing "Descending Sorting" on first click	https://github.com/SymphonySensa/web/issues/2233	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - Descending Sorting for "Transaction Contract ID" column is enabled by default	https://github.com/SymphonySensa/web/issues/2231	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - "Originator Account Number" column is performing "Descending Sorting" on first click	https://github.com/SymphonySensa/web/issues/2230	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+Transaction timeout on SSO login with local code space	https://github.com/SymphonySensa/api/issues/1081	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/api
+"Update" button is enabled when there are no SAML mappings for "Admin" role	https://github.com/SymphonySensa/web/issues/2173	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Details" tab - "Further Information" field is accepting 4000+ characters	https://github.com/SymphonySensa/web/issues/2194	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - First available order is not maintained after clicking a column header three times	https://github.com/SymphonySensa/web/issues/2200	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+Detection Driven Mode – ETL counterparties relationships	https://github.com/SymphonySensa/styx/issues/123	evanlaia	👀 Codeowner review	🏔 High		https://github.com/SymphonySensa/styx/pull/163	v4.3	SymphonySensa/styx
+Implement performance improvements/hardening for large inserts (events and events_entities_objects)	https://github.com/SymphonySensa/styx/issues/49	evanlaia	👀 Codeowner review	🏝 Low		https://github.com/SymphonySensa/styx/pull/177	v4.3	SymphonySensa/styx
+Audit Log for change of the List -List Management	https://github.com/SymphonySensa/api/issues/1079	ehollins-sym	⛔️ On Hold	🏝 Low	🐇 Small			SymphonySensa/api
+Display the "All Detections Queue" per pipeline family	https://github.com/SymphonySensa/web/issues/2111		⛔️ On Hold	🏕 Medium			v4.3	SymphonySensa/web
+List Management page | User's selection to be retained with Pagination	https://github.com/SymphonySensa/web/issues/2138		⛔️ On Hold	🏕 Medium				SymphonySensa/web
+alerts  – updates should be isolated to PostgreSQL 	https://github.com/SymphonySensa/api/issues/1250	dexter0323	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/api/pull/1263	v4.3	SymphonySensa/api
+Missing Update Display Audit Log Entry in Configure Entity Details Card	https://github.com/SymphonySensa/web/issues/2332	carlagromero	🏗 In progress		🐇 Small	https://github.com/SymphonySensa/web/pull/2355		SymphonySensa/web
+System Health Dashboard - Microservices Chart	https://github.com/SymphonySensa/web/issues/2337	carlagromero	🏗 In progress		🐇 Small	https://github.com/SymphonySensa/web/pull/2344		SymphonySensa/web
+"Queues" alerts page -> "Account Number" value should not be displayed in the dropdown	https://github.com/SymphonySensa/web/issues/2339	adyfsl	🏗 In progress	🏔 High		https://github.com/SymphonySensa/web/pull/2358	v4.3	SymphonySensa/web
+Pipeline Management - Scheduler widget not displaying tooltip properly	https://github.com/SymphonySensa/web/issues/2357	LeoHSilva	🏗 In progress	🏕 Medium			v4.3	SymphonySensa/web
+Fix "Maximum Update Depth Exceeded" Error in Node Details Page	https://github.com/SymphonySensa/web/issues/2360	carlagromero	🏗 In progress	🏔 High	🐇 Small			SymphonySensa/web
+Capitalize the letters for "Primary source of funds" label	https://github.com/SymphonySensa/web/issues/2363	e-koop	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2371	v4.3	SymphonySensa/web
+"Entity Accounts" table -> "Copy" icon near "Account Number" value doesn't have a valid node	https://github.com/SymphonySensa/web/issues/2361	e-koop	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2370	v4.3	SymphonySensa/web
+System Health Dashboard - Node Details Layout Inconsistency	https://github.com/SymphonySensa/web/issues/2362	adyfsl	🏗 In progress			https://github.com/SymphonySensa/web/pull/2365		SymphonySensa/web
+Failed Data Fetch for Rules Engine 	https://github.com/SymphonySensa/web/issues/2283	mcashman-nr	🔖 Ready	🏔 High				SymphonySensa/web
+Overall Risk Score appears twice in ELE	https://github.com/SymphonySensa/web/issues/2364	adyfsl	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2369		SymphonySensa/web

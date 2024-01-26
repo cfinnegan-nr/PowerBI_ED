@@ -1,0 +1,31 @@
+Title	URL	Assignees	Status	Priority	Size	Linked pull requests	Milestone	Repository
+"Entity Trades" tab - "Transaction Value" column is performing "Descending Sorting" on first click	https://github.com/SymphonySensa/web/issues/2233	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - Descending Sorting for "Transaction Contract ID" column is enabled by default	https://github.com/SymphonySensa/web/issues/2231	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - "Originator Account Number" column is performing "Descending Sorting" on first click	https://github.com/SymphonySensa/web/issues/2230	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+Transaction timeout on SSO login with local code space	https://github.com/SymphonySensa/api/issues/1081	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/api
+Include Overall Risk Score in flowOfFundsLinks and in getEntity query - ELE	https://github.com/SymphonySensa/api/issues/1159	dexter0323	🏗 In progress	🏔 High		https://github.com/SymphonySensa/api/pull/1168, https://github.com/SymphonySensa/api/pull/1219, https://github.com/SymphonySensa/api/pull/1235	v4.2.1	SymphonySensa/api
+ELE Screen-Relationships View: Zoom In of Relationship view Graph overlap Show Filter Section	https://github.com/SymphonySensa/web/issues/2429	carlagromero	👀 Codeowner review	🏕 Medium	🦔 Tiny	https://github.com/SymphonySensa/web/pull/2450		SymphonySensa/web
+"Update" button is enabled when there are no SAML mappings for "Admin" role	https://github.com/SymphonySensa/web/issues/2173	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Details" tab - "Further Information" field is accepting 4000+ characters	https://github.com/SymphonySensa/web/issues/2194	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - First available order is not maintained after clicking a column header three times	https://github.com/SymphonySensa/web/issues/2200	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+Detection Driven Mode – ETL counterparties relationships	https://github.com/SymphonySensa/styx/issues/123		👀 Codeowner review	🏔 High		https://github.com/SymphonySensa/styx/pull/163	v4.3	SymphonySensa/styx
+Implement performance improvements/hardening for large inserts (events and events_entities_objects)	https://github.com/SymphonySensa/styx/issues/49		👀 Codeowner review	🏝 Low		https://github.com/SymphonySensa/styx/pull/177	v4.3	SymphonySensa/styx
+Audit Log for change of the List -List Management	https://github.com/SymphonySensa/api/issues/1079	ehollins-sym	⛔️ On Hold	🏝 Low	🐇 Small			SymphonySensa/api
+Display the "All Detections Queue" per pipeline family	https://github.com/SymphonySensa/web/issues/2111		⛔️ On Hold	🏕 Medium			v4.3	SymphonySensa/web
+List Management page | User's selection to be retained with Pagination	https://github.com/SymphonySensa/web/issues/2138		⛔️ On Hold	🏕 Medium				SymphonySensa/web
+Update Labels in itemMetadata onTimeSeeds to kebab case	https://github.com/SymphonySensa/api/issues/1284	UrielVentura	👀 Codeowner review	🏔 High		https://github.com/SymphonySensa/api/pull/1296	v4.3	SymphonySensa/api
+alerts  – updates should be isolated to PostgreSQL 	https://github.com/SymphonySensa/api/issues/1250	dexter0323	👀 Codeowner review	🏕 Medium	🐂 Medium	https://github.com/SymphonySensa/api/pull/1263	v4.3	SymphonySensa/api
+"Entity Accounts" table -> "Copy" icon near "Account Number" value doesn't have a valid node	https://github.com/SymphonySensa/web/issues/2361	e-koop	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2370	v4.3	SymphonySensa/web
+Users and Roles table should shrink to contents	https://github.com/SymphonySensa/web/issues/2368		🔖 Ready	🏝 Low	🦔 Tiny			SymphonySensa/web
+ELE clicking next leads to unusual behavior 	https://github.com/SymphonySensa/web/issues/2389		🔖 Ready	🏕 Medium			v4.3	SymphonySensa/web
+Blank page displayed after login, requiring the user to do an F5 to continue in	https://github.com/SymphonySensa/web/issues/2366	e-koop	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/web/pull/2448	v4.3	SymphonySensa/web
+Queues are not being refetched after name is changed	https://github.com/SymphonySensa/web/issues/2444	e-koop	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/web/pull/2454		SymphonySensa/web
+ELE Screen-Relationships View Page: Show Filter do not work and Graph displayed as unchanged as before applying Filter	https://github.com/SymphonySensa/web/issues/2430	adyfsl	🏗 In progress	🏔 High		https://github.com/SymphonySensa/web/pull/2443	v4.2.1	SymphonySensa/web
+Unable to update a risk label if the name is not changed	https://github.com/SymphonySensa/web/issues/2441	carlagromero	🏗 In progress	🏕 Medium	🐇 Small	https://github.com/SymphonySensa/web/pull/2446		SymphonySensa/web
+No character limit for risk category label	https://github.com/SymphonySensa/web/issues/2442	adyfsl	🏗 In progress			https://github.com/SymphonySensa/web/pull/2447		SymphonySensa/web
+ELE - NetReveal Integration - entity not found	https://github.com/SymphonySensa/web/issues/2438		🆕 New					SymphonySensa/web
+Some of the pipeline run logs are missing the"Download Logs" button	https://github.com/SymphonySensa/api/issues/1297		🔖 Ready					SymphonySensa/api
+ELE -Filtering on Transaction Amount drops the entity relationships	https://github.com/SymphonySensa/web/issues/2451		🆕 New					SymphonySensa/web
+Risk Category label does not update when changed	https://github.com/SymphonySensa/web/issues/2452	adyfsl	🏗 In progress	🏕 Medium				SymphonySensa/web
+Transactions Over Time pie chart popups stay open when cursor hovers quickly	https://github.com/SymphonySensa/web/issues/2453		🆕 New					SymphonySensa/web
+getRelationshipsLinks query not returning inclusive results upon filter selection	https://github.com/SymphonySensa/api/issues/1298		🆕 New					SymphonySensa/api

@@ -1,0 +1,37 @@
+Title	URL	Assignees	Status	Priority	Size	Linked pull requests	Milestone	Repository
+Export Transactions to Excel	https://github.com/SymphonySensa/web/issues/2723	adyfsl	🔖 Ready				v4.3.1	SymphonySensa/web
+"Entity Trades" tab - "Transaction Value" column is performing "Descending Sorting" on first click	https://github.com/SymphonySensa/web/issues/2233	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - Descending Sorting for "Transaction Contract ID" column is enabled by default	https://github.com/SymphonySensa/web/issues/2231	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - "Originator Account Number" column is performing "Descending Sorting" on first click	https://github.com/SymphonySensa/web/issues/2230	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+Transaction timeout on SSO login with local code space	https://github.com/SymphonySensa/api/issues/1081	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/api
+"Update" button is enabled when there are no SAML mappings for "Admin" role	https://github.com/SymphonySensa/web/issues/2173	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Details" tab - "Further Information" field is accepting 4000+ characters	https://github.com/SymphonySensa/web/issues/2194	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+"Entity Trades" tab - First available order is not maintained after clicking a column header three times	https://github.com/SymphonySensa/web/issues/2200	mcashman-nr	🔖 Ready	🏝 Low				SymphonySensa/web
+Implement performance improvements/hardening for large inserts (events and events_entities_objects)	https://github.com/SymphonySensa/styx/issues/49		🔖 Ready	🏝 Low		https://github.com/SymphonySensa/styx/pull/177	v2024.01	SymphonySensa/styx
+Audit Log for change of the List -List Management	https://github.com/SymphonySensa/api/issues/1079	ehollins-sym	⛔️ On Hold	🏝 Low	🐇 Small			SymphonySensa/api
+Display the "All Detections Queue" per pipeline family	https://github.com/SymphonySensa/web/issues/2111	ehollins-sym	⛔️ On Hold	🏕 Medium			v2024.01	SymphonySensa/web
+List Management page | User's selection to be retained with Pagination	https://github.com/SymphonySensa/web/issues/2138		⛔️ On Hold	🏕 Medium				SymphonySensa/web
+Investigation - > Queues > All Detection Queue - Entity Details tab is displaying "Missing or Invalid Entity Details " error message 	https://github.com/SymphonySensa/api/issues/1313	ncondes	👀 Codeowner review	🏕 Medium		https://github.com/SymphonySensa/api/pull/1331		SymphonySensa/api
+ELE clicking next leads to unusual behavior 	https://github.com/SymphonySensa/web/issues/2389		🔖 Ready	🏕 Medium				SymphonySensa/web
+ELE - NetReveal Integration - entity not found	https://github.com/SymphonySensa/web/issues/2438		🔖 Ready	🏕 Medium				SymphonySensa/web
+Some of the pipeline run logs are missing the"Download Logs" button	https://github.com/SymphonySensa/api/issues/1297		👀 Codeowner review	🏕 Medium		https://github.com/SymphonySensa/api/pull/1357		SymphonySensa/api
+Corrupted Data Error Messaging Not working for getDetectionsByQueue query	https://github.com/SymphonySensa/api/issues/1401		🔖 Ready	🏕 Medium				SymphonySensa/api
+Internal Server Error is occurred  in Admin -> System Configuration -> Configure Entity Details Card	https://github.com/SymphonySensa/web/issues/2520	adyfsl	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2711		SymphonySensa/web
+Entity Transactions table headings not visible	https://github.com/SymphonySensa/web/issues/2529	wvandeklee-nr	🏗 In progress	🏕 Medium			v4.3.1	SymphonySensa/web
+Entity Trades headings not visible	https://github.com/SymphonySensa/web/issues/2530	wvandeklee-nr	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/web/pull/2703	v4.3.1	SymphonySensa/web
+Entity Trades – missing "core" event columns	https://github.com/SymphonySensa/api/issues/1333	mbroadhead-nr, mcashman-nr, wvandeklee-nr	🏗 In progress	🏔 High		https://github.com/SymphonySensa/api/pull/1395	v4.3.1	SymphonySensa/api
+"Queues" alerts page -> "Detection Type" toggle window should have displayed values	https://github.com/SymphonySensa/api/issues/1373	washingtonfullstack	🔖 Ready	🏕 Medium				SymphonySensa/api
+UI screen under the 'Analytics' menu option - Pipelines Management Issue	https://github.com/SymphonySensa/web/issues/2547	goerwin	🏗 In progress	🏕 Medium		https://github.com/SymphonySensa/web/pull/2717		SymphonySensa/web
+"Entity Transactions -> Transactions Over Time" graph is refreshing the entire page	https://github.com/SymphonySensa/web/issues/2563	mcashman-nr	🔖 Ready	🏝 Low		https://github.com/SymphonySensa/web/pull/2704	v4.3.1	SymphonySensa/web
+unable to stop hermes from running pipeline 'a_test_pipeline' on web-ds	https://github.com/SymphonySensa/hermes/issues/290		🆕 New					SymphonySensa/hermes
+Transaction Search in Entity Transaction table	https://github.com/SymphonySensa/web/issues/2607	mcashman-nr	⛔️ On Hold	🏔 High				SymphonySensa/web
+Status Filter Not Working in Pipeline Runs Page	https://github.com/SymphonySensa/api/issues/1375	ncondes	👀 Codeowner review	🏕 Medium		https://github.com/SymphonySensa/api/pull/1382		SymphonySensa/api
+Add Rule Set - Error message is pushed down by date selector	https://github.com/SymphonySensa/web/issues/2684	adyfsl	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2701		SymphonySensa/web
+Tabs in Dropdown Not Displaying Content When Selected	https://github.com/SymphonySensa/web/issues/2694	e-koop	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2718		SymphonySensa/web
+Investigation -> Queues -> select a queue - Popup message - Confirm button - Label issue	https://github.com/SymphonySensa/web/issues/2713	e-koop	🏗 In progress	🏝 Low		https://github.com/SymphonySensa/web/pull/2722		SymphonySensa/web
+Compliance Manager - Assigned Queue name is display as blank in Gray Environment	https://github.com/SymphonySensa/web/issues/2710		🔖 Ready	🏕 Medium				SymphonySensa/web
+In Gray Environment - Analytics -> Pipelines Management -> pipeline issue.	https://github.com/SymphonySensa/web/issues/2715		🆕 New					SymphonySensa/web
+Compliance Manager - Strategy - > Queue Management - >Delete button - Disable and Tool tips issue in Gray Environment 	https://github.com/SymphonySensa/web/issues/2708		🆕 New					SymphonySensa/web
+Strategy -> System Performance Dashboard -> Total Detections by Source graph - Pie chart issue.	https://github.com/SymphonySensa/hades/issues/199	pavandasari1911	🔖 Ready	🏔 High				SymphonySensa/hades
+getSettingsEntityMapping query not failing upon sending incorrect payload	https://github.com/SymphonySensa/web/issues/2707		🔖 Ready	🏕 Medium				SymphonySensa/web
+Require the ability to clear down postcache for each pipeline family	https://github.com/SymphonySensa/api/issues/1415		🆕 New				v4.3	SymphonySensa/api
